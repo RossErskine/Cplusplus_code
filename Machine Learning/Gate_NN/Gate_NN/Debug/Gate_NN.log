@@ -1,0 +1,4 @@
+﻿  Perceptron.cpp
+D:\DDocuments\C++\HE code\Gate_NN\Gate_NN\Perceptron.cpp(47,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\DDocuments\C++\HE code\Gate_NN\Gate_NN\Perceptron.cpp(62,52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Gate_NN.vcxproj -> D:\DDocuments\C++\HE code\Gate_NN\Debug\Gate_NN.exe
