@@ -1,0 +1,4 @@
+﻿  DataType_DataStructures.cpp
+E:\MyCode\C++\Code challenges\DataType_DataStructures\DataType_DataStructures\DataType_DataStructures.cpp(19,17): warning C4309: 'initializing': truncation of constant value
+E:\MyCode\C++\Code challenges\DataType_DataStructures\DataType_DataStructures\DataType_DataStructures.cpp(32,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DataType_DataStructures.vcxproj -> E:\MyCode\C++\Code challenges\DataType_DataStructures\Debug\DataType_DataStructures.exe
