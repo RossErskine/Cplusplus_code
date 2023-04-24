@@ -1,0 +1,12 @@
+﻿  openCV.cpp
+d:\ddocuments\c++\he code\opencv\opencv\chapter2.h(71): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\ddocuments\c++\he code\opencv\opencv\chapter2.h(70): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  OpenCV.vcxproj -> D:\DDocuments\C++\HE code\OpenCV\x64\Debug\OpenCV.exe
