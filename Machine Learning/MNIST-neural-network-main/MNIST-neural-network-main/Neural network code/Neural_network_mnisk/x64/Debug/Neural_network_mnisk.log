@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\MyCode\C++\HE code\MNIST-neural-network-main\MNIST-neural-network-main\Neural network code\Neural_network_mnisk\Neural_Network.h(17,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\MyCode\C++\HE code\MNIST-neural-network-main\MNIST-neural-network-main\Neural network code\Neural_network_mnisk\InputData.h(19,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\MyCode\C++\HE code\MNIST-neural-network-main\MNIST-neural-network-main\Neural network code\Neural_network_mnisk\InputData.h(44,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Neural_network_mnisk.vcxproj -> E:\MyCode\C++\HE code\MNIST-neural-network-main\MNIST-neural-network-main\Neural network code\x64\Debug\Neural_network_mnisk.exe
