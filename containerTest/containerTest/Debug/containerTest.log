@@ -1,0 +1,5 @@
+﻿  containerTest.cpp
+D:\DDocuments\containerTest\containerTest\Binary_search.h(83): warning C4715: 'Binary_search<int>::binarySearch_std_arr<1000>': not all control paths return a value
+D:\DDocuments\containerTest\containerTest\Binary_search.h(83): warning C4715: 'Binary_search<int>::binarySearch_std_arr<10>': not all control paths return a value
+D:\DDocuments\containerTest\containerTest\Binary_search.h(83): warning C4715: 'Binary_search<int>::binarySearch_std_arr<100>': not all control paths return a value
+  containerTest.vcxproj -> D:\DDocuments\containerTest\Debug\containerTest.exe
